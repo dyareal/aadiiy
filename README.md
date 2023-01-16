@@ -1,10 +1,10 @@
 <h1 align="center">Hi ✨, I'm Ady</h1>
 
-- 👩🏽‍🎓 I’m currently pursuing Master's Degree in Business Administration
+👩🏽‍🎓. I’m currently pursuing Master's Degree in Business Administration
 
-- 👩🏽‍💻 Particularly interested in **Data Analytics**
+👩🏽‍💻. Particularly interested in **Data Analytics**
 
-- 👩🏽‍🎨 Also, I paint portraits and etc [https://www.instagram.com/buburuzah/](https://www.instagram.com/buburuzah/)
+👩🏽‍🎨. Also, I paint portraits and etc [*See me doing art*](https://www.instagram.com/buburuzah/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
