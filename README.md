@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/l0K4p54asXHiEfhrG/giphy.gif" height="100px"/><br/><h3 align="left">Hello<br/> World! ☄️</h3>
 
-<h1 align="left">I'm Ady</h1>
+<h1 align="left">I'm Adithya</h1>
 <p align="left">
 <a href="https://linkedin.com/in/aadiiy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="aadiiy" height="40" /></a>
 </p>
@@ -14,7 +14,7 @@
   <a href="https://www.credly.com/badges/1c93a6e4-d881-491c-91dd-69697ad1580c/public_url" target="blank"><img align="center" src="https://user-images.githubusercontent.com/121610357/212707630-49ef1c8d-8de6-48a9-be31-68941f8ab21a.png" alt="Databases and SQL for Data Science" height="100" /></a>
 </p>
 
-👩🏽‍🎨. Also, I paint portraits and etc. [**See me doing art**](https://www.instagram.com/buburuzah/)
+👩🏽‍🎨. Also, I paint portraits and etc. <br/> [**See me doing art**](https://www.instagram.com/buburuzah/)
 </br>
 <h2><img src="https://media.giphy.com/media/XFvrAjthX6yxVY1Ndx/giphy.gif" height="40px"/> Tech Stack </h2>
 <p align="left">
