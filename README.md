@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://media.giphy.com/media/EEfjNSvFOnsMBtwSIw/giphy.gif" height="30"><img src="https://media.giphy.com/media/3IcbXNHDIZQRy/giphy.gif" height="30"><img src="https://media.giphy.com/media/Hh2eCJrqIhAWKQVNS6/giphy.gif" height="30"><img src="https://media.giphy.com/media/RlN0iTfRZ8Mm0iba4Z/giphy.gif" height="30"><img src="https://media.giphy.com/media/QWrCFpI965negKDo0n/giphy.gif" height="30"><img src="https://media.giphy.com/media/pO7zbu1sji31eI0bKs/giphy.gif" height="30"><img src="https://media.giphy.com/media/2YjZ5VQ3mTa4H5gQx1/giphy.gif" height="30"><img src="https://media.giphy.com/media/bh9uUHXj6xMRhMkRJg/giphy.gif" height="30"><img src="https://media.giphy.com/media/vRz8PBuHHjz9ijcGbj/giphy.gif" height="30"><img src="https://media.giphy.com/media/d8SMqAtm3D9bYfOtcs/giphy.gif" height="30"><img src="https://media.giphy.com/media/tUfJcOEby7HhMt3HiC/giphy.gif" height="30"><img src="https://media.giphy.com/media/o26G1cu4MCPQki9Iyp/giphy.gif" height="30"><img src="https://media.giphy.com/media/BCGsHs6DDaJr2/giphy.gif" height="30"><img src="https://media.giphy.com/media/DgW5OlRT8meHfn1o4t/giphy.gif" height="30"><img src="https://media.giphy.com/media/jVC6sJt4qbWAucgO2I/giphy.gif" height="30">
+  <img src="https://media.giphy.com/media/PhZaWTQs69EvNbzqZq/giphy.gif" height="30"><img src="https://media.giphy.com/media/3IcbXNHDIZQRy/giphy.gif" height="30"><img src="https://media.giphy.com/media/Hh2eCJrqIhAWKQVNS6/giphy.gif" height="30"><img src="https://media.giphy.com/media/RlN0iTfRZ8Mm0iba4Z/giphy.gif" height="30"><img src="https://media.giphy.com/media/QWrCFpI965negKDo0n/giphy.gif" height="30"><img src="https://media.giphy.com/media/pO7zbu1sji31eI0bKs/giphy.gif" height="30"><img src="https://media.giphy.com/media/2YjZ5VQ3mTa4H5gQx1/giphy.gif" height="30"><img src="https://media.giphy.com/media/bh9uUHXj6xMRhMkRJg/giphy.gif" height="30"><img src="https://media.giphy.com/media/vRz8PBuHHjz9ijcGbj/giphy.gif" height="30">
 </div>
 <div style="text-align: center;">
   <h1
@@ -27,9 +27,19 @@
   </div>
 </details>
     
+```python
+    class WhoAmI :
+      user: 'Adithya'
+        display: 'she/her'
+        hobbies = [
+				'Painting',
+				'Enjoying the night sky'
+				'Listening songs of languages I don't know',
+				# Assume 10 more awesome hobbies here  ;)
+			]  
+```
 <div style="text-align: left;">
   <h2 style="text-align: left;">
     Listening Status
   </h2>
-  <br>
   <img style="float: left;" src="https://spotify-github-profile.vercel.app/api/view?uid=fmoqv38s4oo6pq4o0hp1ifyb2&amp;cover_image=false&amp;theme=default" width="180"></div>
