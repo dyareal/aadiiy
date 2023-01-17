@@ -9,7 +9,7 @@
 </div>
 <div style="text-align: center;">
   <p style="text-align: center;">
-    I'm Pursuing Masters in Business Administration 👩🏽&zwj;🎓 <br>[<a href="https://www.linkedin.com/in/aadiiy/" rel="nofollow"><strong>Linkedin</strong></a>]<br>Particularly interested in 👩🏽&zwj;💻&nbsp;<br><code>Data Analytics</code><br><a href="https://www.instagram.com/buburuzah/" rel="nofollow"><em><strong>See my paintings</strong></em></a>&nbsp;👩🏽&zwj;🎨 <br>But why? -- why not?
+    I'm Pursuing Masters in Business Administration 👩🏽&zwj;🎓 <br>[<a href="https://www.linkedin.com/in/aadiiy/" rel="nofollow"><strong>Linkedin</strong></a>]<br>Particularly interested in 👩🏽&zwj;💻&nbsp;<br><code>Data Analytics</code><br>Also, <br><a href="https://www.instagram.com/buburuzah/" rel="nofollow"><em><strong>See my paintings</strong></em></a>&nbsp;👩🏽&zwj;🎨 <br>But why? -- why not?
   </p>
 </div>
 <details style="text-align: center;">
