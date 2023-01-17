@@ -31,8 +31,8 @@
 ```python
     class WhoAmI :
       user: 'Adithya'
-        display: 'she/her'
-        hobbies = [
+      display: 'she/her'
+      hobbies = [
 	  'Painting',
 	  'Enjoying the night sky'
 	  'Listening songs of languages I don't know',
